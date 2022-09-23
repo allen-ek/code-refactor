@@ -22,5 +22,5 @@ I also learned how to change image resources and add alt descriptions to images 
 ![Site](Screenshot.png)
 
 ## Link to deployed application
-- [Link to Github](https://github.com/)
+- [Link to Github Pages](https://allen-ek.github.io/code-refactor/)
 
