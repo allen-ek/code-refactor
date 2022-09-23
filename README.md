@@ -1,4 +1,4 @@
-# Html Code Refactoring 
+# Html Code Refactoring Project
 
 
 ## Why?
@@ -19,5 +19,8 @@ I also learned how to change image resources and add alt descriptions to images 
 <img src="./assets/images/social-media-marketing.jpg" alt= "people collaborating around a desk"class="float-left" />
 ```
 ## Screenshot of project webpage
-![Site] (Screenshot(98).png)
+![Site](Screenshot.png)
+
+## Link to deployed application
+- [Link to Github](https://github.com/)
 
